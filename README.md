@@ -5,6 +5,7 @@ This is a tutorial for the beginners of loving deep learning. We start from Kera
 ## Operating System on your computer:  Ubuntu, Mac Os, or Windows 10 
 
 ![1](https://github.com/cswin/KerasTutorial/blob/master/figures/win-linux.jpg)
+
 Note: The wonderful Ubuntu terminal is freely available for Windows 10. In short, you need to do 
 
 (1)Enable the “Windows Subsystem for Linux” 
