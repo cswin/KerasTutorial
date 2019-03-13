@@ -16,7 +16,9 @@ Note: The wonderful Ubuntu terminal is freely available for Windows 10. In short
 
  For details: go to https://tutorials.ubuntu.com/tutorial/tutorial-ubuntu-on-windows#0 
 
- Python >=3.5   Keras 2.2.4
+ Python >=3.5  
+ 
+ Keras 2.2.4
 
 ## Install ananconda-keras-tensorflow
 
